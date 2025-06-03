@@ -114,8 +114,7 @@ if __name__ == "__main__":
                 np.expand_dims(keypoints_array[-2], axis=0),
             ),
             axis=0
-        ),
-        frame_resolution_wh=video_info.resolution_wh,
+        )
     )
 
 
