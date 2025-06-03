@@ -1,4 +1,3 @@
-kaleav
 ffmpeg
 matplotlib
 opencv-python
@@ -9,3 +8,4 @@ supervision
 ultralytics
 streamlit
 parse
+# ipykernel
